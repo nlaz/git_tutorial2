@@ -1,6 +1,10 @@
 * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 * Git Tutorial 2                                      *
-* Instructions: Add your favorite music artist below. *
+* Instructions:                                       *
+* - Create a new branch                               *
+* - Add your favorite music artist below              *
+* - Stage and commit your changes                     *
+* - Open a pull request on GitHub                     *
 * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 DJ Khaled
