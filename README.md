@@ -11,13 +11,13 @@ Create a new branch
 ```
 git checkout -b <branch-name>
 ```
-Open tutorial.txt
+Open emojis.md
 ```
-vim tutorial.txt
+vim emojis.md
 ```
 Follow the instructions and add your changes. Stage and commit when ready.
 ```
-git add .
+git add emojis.md
 git commit -m <message>
 ```
 Push your changes to GitHub.
