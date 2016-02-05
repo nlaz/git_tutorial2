@@ -7,3 +7,4 @@
 
 ## Emojis
 :key::key:
+:smile:
