@@ -7,4 +7,4 @@
 
 ## Emojis
 :key::key
-:)
+:bowtie:
