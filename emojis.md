@@ -7,4 +7,4 @@
 
 ## Emojis
 :key::key:
-:new_moon_with_face::new_moon_with_face::octocat:
+:new_moon_with_face::new_moon_with_face::octocat::neckbeard:
