@@ -6,5 +6,5 @@
 - Open a pull request on GitHub                  
 
 ## Emojis
-:key::key
+:key::key:
 :bowtie:
